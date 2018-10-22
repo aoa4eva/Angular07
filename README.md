@@ -1,6 +1,9 @@
 # Angular08
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
+This project takes user input and displays it as part of a message in real time. 
+
+Run this project to enter your name and see how awesome you are. 
 
 ## Development server
 
